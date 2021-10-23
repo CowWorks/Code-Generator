@@ -1,0 +1,1 @@
+start compile.bat && start app.exe
