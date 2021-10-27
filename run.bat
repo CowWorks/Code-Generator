@@ -1,1 +1,1 @@
-start compile.bat && start app.exe
+gcc main.c && start a.exe
